@@ -1,15 +1,15 @@
 # Site settings
-title: houtao | my hometown, my root
-description: '我的故鄉，我的根。'
-keywords: '後套傳奇'
-url: 'https://je-pense.github.io/houtao'
+title: le-conte | shenzhen 1992
+description: 'le-conte'
+keywords: '深圳 1992'
+url: 'https://je-pense.github.io/le-conte'
 author:
   name: '阿甘'
   email: 'winwinsfu@gmail.com'
   url: 'https://je-pense.github.io/'
 
 # Build settings
-baseurl: /houtao # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /le-conte # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
