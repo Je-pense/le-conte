@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-<p>你好！歡迎訪問 <a href="https://github.com/genghis-bai" target="_blank" style="color:#663399;">github</a> 與我互動！或者使用以下表單給我發郵件吧！</p>
+<p>你好！歡迎訪問 <a href="https://github.com/je-pense" target="_blank" style="color:#663399;">github</a> 與我互動！或者使用以下表單給我發郵件吧！</p>
 
 <form class="wj-contact" action="https://formspree.io/winwinsfu@gmail.com" method="POST">
     <input type="text" name="name" placeholder="Your Name">
